@@ -22,3 +22,6 @@ Apache Config
 			allow from all
 		</Directory>
 	</VirtualHost>
+   
+Index Image
+![image](https://raw.githubusercontent.com/hunaifei-trec/laravel-test/main/storage/app/public/images/index.png)
